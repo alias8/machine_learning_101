@@ -59,6 +59,12 @@
 - Word2Vec intuition, cosine similarity
 - Sentiment classification with an LSTM
 
+### 4.3 — Recommender Systems
+- Collaborative filtering: user & item embeddings, matrix factorization
+- Neural collaborative filtering: dot product → MLP head
+- Implicit vs explicit feedback, negative sampling
+- Build a movie recommender with the MovieLens dataset
+
 ---
 
 ## Module 5: Attention & Transformers
