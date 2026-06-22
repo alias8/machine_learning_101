@@ -105,6 +105,29 @@
 
 ---
 
+## Module 7: Reinforcement Learning
+
+### 7.1 — Deep Q-Networks (DQN)
+- The RL framework: agent, environment, state, action, reward, policy
+- Q-learning and the Bellman equation
+- DQN: a neural network as a Q-function approximator
+- Experience replay and target networks
+- Train on CartPole-v1
+
+### 7.2 — Policy Gradients
+- REINFORCE: the policy gradient theorem
+- Actor-critic methods (A2C)
+- Why policy gradients generalize beyond discrete action spaces
+- Train on LunarLander-v2
+
+### 7.3 — AlphaZero
+- Monte Carlo Tree Search (MCTS)
+- Neural network as combined policy + value head
+- Self-play and iterative improvement
+- Implement for Tic-tac-toe or Connect 4
+
+---
+
 ## Capstone Options
 - Fine-tune a small LLM (GPT-2) on a custom dataset
 - Build an image captioning model (CNN encoder + transformer decoder)
